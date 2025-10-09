@@ -1,7 +1,7 @@
 # Testing – BDD Features
 
-Este repositorio contiene los **archivos `.feature`** del proyecto **PlantCare**, escritos en formato **Gherkin** bajo la metodología **BDD (Behavior Driven Development)**.
+This repository contains the **`.feature` files** of the **PlantCare** project, written in **Gherkin** format following the **BDD (Behavior Driven Development)** methodology.
 
-Cada archivo describe escenarios de comportamiento esperados desde la perspectiva del usuario.
+Each file describes expected behavior scenarios from the user's perspective.
 
 ---
